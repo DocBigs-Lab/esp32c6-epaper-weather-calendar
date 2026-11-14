@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+.DS_Store
+include/secrets.h
+# Original-Fotos vom Handy (enthalten GPS-Daten) - nur bereinigte Kopien einchecken
+docs/bilder/IMG_*
